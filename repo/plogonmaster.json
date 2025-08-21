@@ -8,16 +8,16 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/supremorie/Mare-client",
     "Tags": [
-      "customization"
+      "customization" 
     ],
     "DalamudApiLevel": 12,
     "LoadPriority": 0,
-    "IconUrl": "https://github.com/supremorie/Mare-client/blob/main/repo/CN/images/icon.png",
+    "IconUrl": "https://github.com/supremorie/repo/raw/9f92b6518177ed4bb5860adea6dd27de5448a124/MareSynchronos/images/icon.png",
     "Punchline": "Let others see you as you see yourself.",
-    "IsHide": "False",
+    "IsHide": "False", 
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/supremorie/Mare-client/raw/refs/heads/main/1.12.2.6.zip",
-    "DownloadLinkTesting": "https://github.com/supremorie/Mare-client/raw/refs/heads/main/1.12.2.6.zip",
-    "DownloadLinkUpdate": "https://github.com/supremorie/Mare-client/raw/refs/heads/main/1.12.2.6.zip"
+    "DownloadLinkInstall": "https://github.com/supremorie/Mare-client/raw/770472d8cea2aa298640152663d873c1f3e1162e/MareSynchronos/1.12.2.6.zip",
+    "DownloadLinkTesting": "https://github.com/supremorie/Mare-client/raw/770472d8cea2aa298640152663d873c1f3e1162e/MareSynchronos/1.12.2.6.zip",
+    "DownloadLinkUpdate": "https://github.com/supremorie/Mare-client/raw/770472d8cea2aa298640152663d873c1f3e1162e/MareSynchronos/1.12.2.6.zip"
   }
 ]
